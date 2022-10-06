@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignmentPetAPI", "AssignmentPetAPI\AssignmentPetAPI.csproj", "{3A86CE69-715F-49AC-8B0E-092045B9732D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A86CE69-715F-49AC-8B0E-092045B9732D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A86CE69-715F-49AC-8B0E-092045B9732D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A86CE69-715F-49AC-8B0E-092045B9732D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A86CE69-715F-49AC-8B0E-092045B9732D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B073F19-18DE-4C70-BB5F-D1413292C29D}
+	EndGlobalSection
+EndGlobal
